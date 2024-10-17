@@ -1,0 +1,7 @@
+git init
+git remote add origin https://github.com/Harshal1917/Deep-Learned.git
+git add .
+git add file1.txt file2.txt
+git commit -m "deep1"
+git push origin main
+
