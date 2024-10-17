@@ -4,4 +4,3 @@ git add .
 git add file1.txt file2.txt
 git commit -m "deep1"
 git push origin main
-x
